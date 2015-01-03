@@ -1,0 +1,272 @@
+[
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 7,
+    "image" : "",
+    "position" : [192, 0]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 8,
+    "image" : "",
+    "position" : [214, 0]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 9,
+    "image" : "",
+    "position" : [236, 0]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 10,
+    "image" : "",
+    "position" : [258, 0]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 11,
+    "image" : "",
+    "position" : [280, 0]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 7,
+    "image" : "",
+    "position" : [192, -26]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 8,
+    "image" : "",
+    "position" : [214, -26]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 9,
+    "image" : "",
+    "position" : [236, -26]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 10,
+    "image" : "",
+    "position" : [258, -26]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 11,
+    "image" : "",
+    "position" : [280, -26]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 7,
+    "image" : "",
+    "position" : [192, -52]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 8,
+    "image" : "",
+    "position" : [214, -52]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 9,
+    "image" : "",
+    "position" : [236, -52]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 10,
+    "image" : "",
+    "position" : [258, -52]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 11,
+    "image" : "",
+    "position" : [280, -52]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 7,
+    "image" : "",
+    "position" : [192, -78]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 8,
+    "image" : "",
+    "position" : [214, -78]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 9,
+    "image" : "",
+    "position" : [236, -78]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 10,
+    "image" : "",
+    "position" : [258, -78]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 11,
+    "image" : "",
+    "position" : [280, -78]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 7,
+    "image" : "",
+    "position" : [192, -104]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 8,
+    "image" : "",
+    "position" : [214, -104]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 9,
+    "image" : "",
+    "position" : [236, -104]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 10,
+    "image" : "",
+    "position" : [258, -104]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 11,
+    "image" : "",
+    "position" : [280, -104]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 7,
+    "image" : "",
+    "position" : [192, -130]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 8,
+    "image" : "",
+    "position" : [214, -130]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 9,
+    "image" : "",
+    "position" : [236, -130]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 10,
+    "image" : "",
+    "position" : [258, -130]
+    }
+  },
+  {
+  "op" : "add",
+  "path" : "/paneLayout/species/buttons/-",
+  "value" : {
+    "id" : 11,
+    "image" : "",
+    "position" : [280, -130]
+    }
+  }
+]

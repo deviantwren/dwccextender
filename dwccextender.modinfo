@@ -1,0 +1,13 @@
+{
+  "name" : "dwccextender",
+  "version" : "Beta v. Upbeat Giraffe - Update 1",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata": {
+    "author" : "deviantWren",
+    "description" : "Creates structure for additional races in character creation.",
+    "support_url" : "content.hope@gmail.com"
+        }
+}
+
+
