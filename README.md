@@ -1,4 +1,4 @@
-dwccextender
+dwccextender_deprecated
 ============
 
-Starbound mod that creates structure for additional races in character creation.
+A deprecated Starbound mod that creates structure for additional races in character creation.
